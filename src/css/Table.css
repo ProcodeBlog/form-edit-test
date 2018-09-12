@@ -1,0 +1,14 @@
+.tb-header {
+	background-color: #ccc;
+	color: blue;
+	padding: 10px;
+	text-align: left;
+}
+
+.g-row {
+	background-color: plum;
+}
+
+.other-row {
+	background-color: greenyellow;
+}
